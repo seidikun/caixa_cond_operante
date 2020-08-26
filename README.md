@@ -16,6 +16,8 @@ O treino é temporizado e 3 finalizações são possíveis:
 2. O animal tocou 50 vezes as barras corretas antes do esgotamento do tempo
 3. O animal não conseguiu tocar a quantidade mínima de vezes e o tempo esgotou
 
+PAra mais informações teóricas, ver a [Wiki](https://github.com/seidikun/caixa_cond_operante/wiki)
+
 **Importante**:
 - foram utilizadas bibliotecas auxiliares numpy.random, para gerar número randômico, e time, para gerar pausa temporizada durante a execução do código.
 - foi criada uma função, devido à clareza de leitura de código que ela trás
