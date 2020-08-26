@@ -12,7 +12,7 @@ O programa que faz esse monitoramento é caixa_cond_operante.py, disponível nes
   - caso contrário, nada acontece
   
 O treino é temporizado e 3 finalizações são possíveis:
-1. O animal tocou pelo menos 20 vezes as barras corretas antes do esgotamento do tempo
+1. O animal tocou pelo de 20 a 50 vezes as barras corretas antes do esgotamento do tempo
 2. O animal tocou 50 vezes as barras corretas antes do esgotamento do tempo
 3. O animal não conseguiu tocar a quantidade mínima de vezes e o tempo esgotou
 
